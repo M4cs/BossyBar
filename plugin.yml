@@ -1,0 +1,9 @@
+main: us.updat.bossybar.BBPlugin
+name: BossyBar
+version: 1.0.0
+api-version: "1.15"
+description: "Custom Boss Bars for Spigot"
+commands:
+   bossybar:
+      usage: "/<command> ?"
+      description: "Display available commands for BossyBar"
